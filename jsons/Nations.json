@@ -31,7 +31,7 @@
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"uniqueName": "Rebuild for Ruins",
-		"uniques": ["[+1 Gold, +4 Production +1 Science][in all cities]","[+1 Gold, +2 Food] from each Trade Route"],"[+15]% Production when constructing [All] buildings [in all cities]"
+		"uniques": ["[+1 Gold, +4 Production +1 Science][in all cities]","[+1 Gold, +2 Food] from each Trade Route"]","[+15]% Production when constructing [All] buildings [in all cities]",
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Tron's","New Port","Azire's","Leroa'ns",
 			"Quiroh","Xicum Zone","Saciv City","Little's","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
