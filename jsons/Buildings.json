@@ -26,7 +26,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 1,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+15]% Strength for enemy [All] units in adjacent [All] tiles"]
+		"uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured", "All newly-trained [non-air] units [in this city] receive the [Morale] promotion","Provide [20]% Strength for cities" ]
 		"requiredTech": "Military Science"
 	},
 ]
