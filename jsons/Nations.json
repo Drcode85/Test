@@ -1,37 +1,39 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Republic Federation",
+		"leaderName": "Sayouri Casdio",
+		"adjective": ["Izanbanton"],
+		"startBias": ["Hill","Avoid [Desert]"],
+		"preferredVictoryType": "Scientific","Diplomatic"
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You be our new management okay",
+		"attacked": "He, dare to attack!"
+		"defeated": "How?, maybe we need to prepera more.",
+		"introduction": "Hello we come in peace for another world :).",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Go on.","Huh?","Tell me."],
+		"neutralNo": ["Sorry we refuse.","Bruh no","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good.","Yes my brother we accept."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "...",
+		"hateLetsHearIt": ["...","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","Fuck you no!"],
+		"hateYes": ["K...","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Thank god that end.",
+		"tradeRequest": "We have a trade offer for you and our benefit.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"uniqueName": "Rebuild for Ruins",
+		"uniques": ["[+1 Gold, +4 Production +1 Science][in all cities]",  "[+1 Gold, +2 Food] from each Trade Route"], "[+15]% Production when constructing [All] buildings [in all cities]"
+		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Tron's","New Port","Azire's","Leroa'ns",
+			"Quiroh","Xicum Zone","Saciv City","Little's","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
