@@ -13,13 +13,20 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Stronghold",
+		"replace": "Bomb Shelter",
+		"cost": 450,
+		"maintenance": 2,
+		"requiredTech": "Telecommunications",
+		"uniques": ["Population loss from nuclear attacks [-85]% [in this city]","Damage to garrison from nuclear attacks [-90]% [in this city]"]
 	}
+	{
+		"name": "Defence System HQ",
+		"replace": "Military Academy",
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[-15]% Strength for enemy [City] units in adjacent [All] tiles"]
+		"requiredTech": "Military Science"
+	},
 ]
