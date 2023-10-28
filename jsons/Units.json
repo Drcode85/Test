@@ -1,17 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Defence Coalition",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Republic Federation",
+		"replaces": "Infantry",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"strength": 65,
+		"cost": 250,
+		"requiredTech": "Plastics",
+		"promotions": ["Medic II","Mobility"],
 		"attackSound": "phasers"
 	}
 ]
