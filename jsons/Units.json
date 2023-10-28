@@ -5,8 +5,8 @@
 		"uniqueTo": "Republic Federation",
 		"replaces": "Infantry",
 		"movement": 2,
-		"strength": 65,
-		"cost": 250,
+		"strength": 60,
+		"cost": 215,
 		"requiredTech": "Plastics",
 		"promotions": ["Medic II","Mobility"],
 		"attackSound": "phasers"
