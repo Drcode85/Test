@@ -3,7 +3,7 @@
 		"name": "Republic Federation",
 		"leaderName": "Sayouri Casdio",
 		"adjective": ["Izanbanton"],
-		"startBias": ["Hill","Avoid [Desert]"],
+		"startBias": "Avoid [Snow]",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "We come in peace!",
