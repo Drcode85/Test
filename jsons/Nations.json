@@ -31,7 +31,7 @@
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"uniqueName": "Mazze Corpation",
-		"uniques": [
+		"uniques": "[-45]% Gold cost of upgrading for Military units",
 		"uniqueName": "Rebuild for Ruins",
 		"uniques": ["[+1 Gold, +4 Production +1 Science][in all cities]","[+1 Gold, +2 Food] from each Trade Route"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Tron's","New Port","Azire's","Leroa'ns",
