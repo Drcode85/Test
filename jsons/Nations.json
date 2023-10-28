@@ -9,13 +9,13 @@
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "You be our new management okay",
-		"attacked": "He, dare to attack!"
-		"defeated": "How?, maybe we need to prepera more.",
-		"introduction": "Hello we come in peace for another world :).",
+		"declaringWar": "Sorry in the name of peace and power",
+		"attacked": "What..."
+		"defeated": "How?, guess we not prepera enough.",
+		"introduction": "Hello neighbour is nice to meet you.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","Huh?","Tell me."],
+		"neutralLetsHearIt": ["Go on.","Tell me what do you want to say","Tell me."],
 		"neutralNo": ["Sorry we refuse.","Bruh no","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good.","Yes my brother we accept."],
 
@@ -24,14 +24,14 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","Fuck you no!"],
 		"hateYes": ["K...","That is good enough.","Very well..."],
 		
-		"afterPeace": "Thank god that end.",
+		"afterPeace": "Thank god that end, my manpower is reducing.",
 		"tradeRequest": "We have a trade offer for you and our benefit.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"uniqueName": "Mazze Corpation",
-		"uniques":  ["[-40]% Gold cost of upgrading <for [Military] units>"],"[+1 Gold, +4 Production +1 Science][in all cities]"],
+		"uniques":  ["[-40]% Gold cost of upgrading <for [Military] units>","[+1 Gold, +4 Production +1 Science][in all cities]"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Tron's","New Port","Azire's","Leroa'ns",
 			"Quiroh","Xicum Zone","Saciv City","Little's","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
