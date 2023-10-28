@@ -1,13 +1,11 @@
 [
 	{
 		"name": "Defence Coalition",
-		"unitType": "Ranged",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Republic Federation",
 		"replaces": "Infantry",
 		"movement": 2,
-		"strength": 80,
-		"rangedStrength": 30,
-		"range": 1,
+		"strength": 65,
 		"cost": 250,
 		"requiredTech": "Plastics",
 		"promotions": ["Medic II","Mobility"],
