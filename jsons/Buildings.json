@@ -12,4 +12,11 @@
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
   }
+	{
+		"name": "Air Base",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured", "New [Air] units start with [15] Experience [in this city]", "[+15]% Production when constructing [Air] units [in this city]"]
+		"requiredTech": "Flight"
+	}
 ]
