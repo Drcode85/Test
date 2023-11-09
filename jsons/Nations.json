@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Rapid Progression",
-		"uniques":  ["[+2 Production, +1 Happiness] from every specialist [in all cities]", "Starts with [Republic] adopted", "[+31]% growth [in all cities]"],
+		"uniques":  ["[+2 Production] from every specialist [in all cities]", "Starts with [Republic] adopted", "[+31]% growth [in all cities]"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Alson","New Port","Azire's","Predivosk",
 			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Q'Honkrath",
 			"Dawnion","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
