@@ -3,7 +3,7 @@
 		"name": "Republic Federation",
 		"leaderName": "Sayouri Casdio",
 		"adjective": ["Izanbanton"],
-		"startBias": ["Avoid [Snow]"],
+		"startBias": ["[Hill]"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "We come in peace!",
@@ -29,12 +29,11 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"uniqueName": "Emergency of the state",
-		"uniques":  ["[-38]% Gold cost of upgrading <for [Military] units>","[+1 Gold, +2 Production, +2 Science] [in all cities]", "[+27]% Strength <for [Military] units> in adjacent [Fort] tiles","[+24]%],
+		"uniqueName": "Rapid Progression",
+		"uniques":  ["[+2 Production] from every specialist [in all cities]", "Starts with [Republic] adopted"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Alson","New Port","Azire's","Predivosk",
-			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Q'Honkrath",
+			"Dawnion","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
