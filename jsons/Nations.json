@@ -30,10 +30,10 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Great Progression",
-		"uniques":  ["[+2 Production] from every specialist [in all cities]", "[+1 Production, +1 Culture, +1 Science] from every [3] population", "Starts with [Republic] adopted", "[+32]% growth [in all cities]"],
+		"uniques":  ["[+2 Production] from every specialist [in all cities]", "[+1 Production, +1 Culture, +1 Science] per [3] population [in all cities]", "Starts with [Republic] adopted", "[+32]% growth [in all cities]"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Alson","New Port","Azire's","Predivosk",
-			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Q'Honkrath",
-			"Dawnion","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Hizuchkah",
+			"Dawnion","Reviozi","Capivel","Ashville","Drezkiov","Wicking","Jacimi","Aquilonia","Frostholm","Victor Bay",
+			"Gredilina","Pertoviksi","Ukom","Qusikou","Ziocilkusti","New Bay"]
 	}
 ]
