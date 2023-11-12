@@ -40,7 +40,7 @@
 		"name": "Caviziour",
 		"leaderName": "Magtha",
 		"adjective": ["Cavir"],
-		"startBias": ["Plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Donimation",
 
         "startIntroPart1": "",
@@ -56,7 +56,7 @@
 		"outerColor": [150, 50, 0],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Grand Expansion",
-		"uniques": ["Start with additonal [1] Settler"],
+		"uniques": ["Start with additonal [1] [Settler] units", "],
 		"cities": ["Simal","Revio","Hamiton","Caryton","Voctic","Cityev","Harwik","Jivilo","Rivertown","Ahster",
 			"Zimver","Calimevo","Zayik","Weeds","Deathic","No'n","Poorciv","Plicamon","Havenport","Frivoticozivous",
 			"Viscouiszimber","Frenivouswe","Poivilasiobunve","Wibvoislveasionvus","Upperville","Wilvim","Elizetbeth Town","Boriousviutuigbosziusimius","That's","Welling"],
