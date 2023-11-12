@@ -10,7 +10,7 @@
 		"startIntroPart2": "",
 		
 		"declaringWar": "Sorry in the name of peace and power",
-		"attacked": "Barely a scrath"
+		"attacked": "Maybe i should no to easy going"
 		"defeated": "How?, guess we not ready enough.",
 		"introduction": "Hello neighbour is nice to meet you.",
 		
@@ -35,7 +35,7 @@
 			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Hizuchkah",
 			"Dawnion","Reviozi","Capivel","Ashville","Drezkiov","Wicking","Jacimi","Aquilonia","Frostholm","Victor Bay",
 			"Gredilina","Pertoviksi","Ukom","Qusikou","Ziocilkusti","New Bay"]
-	}
+	},
 	{
 		"name": "Caviziour",
 		"leaderName": "Magtha",
@@ -47,21 +47,18 @@
         "startIntroPart2": "",
 
         "declaringWar": "By the grace of God, your days are numbered.",
-		"attacked": ".",
+		"attacked": "You stupid act, will cause you end.",
 		"defeated": "You have won, I congrats to you.",
 		"introduction": "We are pleased to meet you.",
 		"neutralHello": "Hello, again.",
-		"hateHello": "Oh, it's you!",
+		"hateHello": "Oh, it's you again!",
 		"tradeRequest": "I have a offer for you, that will benefit us?",
 		"outerColor": [150, 50, 0],
 		"innerColor": [255, 255, 255],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Sun Never Sets",
+		"uniqueName": "Grand Expansion",
 		"uniques": ["[+2] Movement <for [Water] units>"],
-		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
-			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
-			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
-			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
-        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
-    },
+		"cities": ["Simal","Revio","Hamiton","Caryton","Voctic","Cityev","Harwik","Jivilo","Rivertown","Ahster",
+			"Zimver","Calimevo","Zayik","Weeds","Deathic","No'n","Poorciv","Plicamon","Havenport","Frivoticozivous",
+			"Viscouiszimber","Frenivouswe","Poivilasiobunve","Wibvoislveasionvus","Upperville","Wilvim","Elizetbeth Town","Boriousviutuigbosziusimius","That's","Welling"],
+    }
 ]
