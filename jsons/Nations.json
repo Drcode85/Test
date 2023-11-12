@@ -10,8 +10,8 @@
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Sorry in the name of peace and power",
-		"attacked": "What..."
-		"defeated": "How?, guess we not prepera enough.",
+		"attacked": "Barely a scrath"
+		"defeated": "How?, guess we not ready enough.",
 		"introduction": "Hello neighbour is nice to meet you.",
 		
 		"neutralHello": "How are you doing?",
@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Great Progression",
-		"uniques":  ["[+2 Production] from every specialist [in all cities]", "[+1 Production, +1 Culture, +1 Science] per [3] population [in all cities]", "Starts with [Republic] adopted", "[+32]% growth [in all cities]"],
+		"uniques":  ["[+2 Production] from every specialist [in all cities]", "[+1 Production, +1 Culture, +1 Science] per [3] population [in all cities]", "Starts with [Republic] adopted"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Alson","New Port","Azire's","Predivosk",
 			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Hizuchkah",
 			"Dawnion","Reviozi","Capivel","Ashville","Drezkiov","Wicking","Jacimi","Aquilonia","Frostholm","Victor Bay",
