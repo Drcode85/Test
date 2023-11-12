@@ -6,8 +6,8 @@
 		"startBias": ["[Hill]"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
 		"declaringWar": "Sorry in the name of peace and power",
 		"attacked": "Barely a scrath"
@@ -36,4 +36,32 @@
 			"Dawnion","Reviozi","Capivel","Ashville","Drezkiov","Wicking","Jacimi","Aquilonia","Frostholm","Victor Bay",
 			"Gredilina","Pertoviksi","Ukom","Qusikou","Ziocilkusti","New Bay"]
 	}
+	{
+		"name": "Caviziour",
+		"leaderName": "Magtha",
+		"adjective": ["Cavir"],
+		"startBias": ["Plain"],
+		"preferredVictoryType": "Donimation",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "By the grace of God, your days are numbered.",
+		"attacked": ".",
+		"defeated": "You have won, I congrats to you.",
+		"introduction": "We are pleased to meet you.",
+		"neutralHello": "Hello, again.",
+		"hateHello": "Oh, it's you!",
+		"tradeRequest": "I have a offer for you, that will benefit us?",
+		"outerColor": [150, 50, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Sun Never Sets",
+		"uniques": ["[+2] Movement <for [Water] units>"],
+		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+    },
 ]
