@@ -2,7 +2,7 @@
 	{
 		"name": "Defence Coalition",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Republic Federation",
+		"uniqueTo": "",
 		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 60,
