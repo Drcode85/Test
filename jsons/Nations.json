@@ -27,7 +27,7 @@
 		"afterPeace": "Thank god that end, my manpower is reducing.",
 		"tradeRequest": "We have a trade offer for you and our benefit.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [200,0,50],
 		"innerColor": [255,200,200],
 		"uniqueName": "The Great Progression",
 		"uniques":  ["[+75]% Science [in all cities] <when not at war>", "[+75]% Production [in all cities] <when not at war>", "", "[+1 Production, +1 Gold, +1 Culture, +1 Science] per [3] population [in all cities] <when not below [0] Happiness>"],
