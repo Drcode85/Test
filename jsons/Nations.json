@@ -12,7 +12,7 @@
 		"declaringWar": "Sorry in the name of peace and power",
 		"attacked": "Maybe i should no to easy going"
 		"defeated": "How?, guess we not ready enough.",
-		"introduction": "Hello neighbour is nice to meet you.",
+		"introduction": "Hello, I'm Casdio is nice to meet you.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","Tell me what do you want to say","Tell me."],
@@ -30,7 +30,7 @@
 		"outerColor": [200,0,50],
 		"innerColor": [255,200,200],
 		"uniqueName": "The Great Progression",
-		"uniques":  ["[+80]% Science [in all cities] <when not at war>", "[+80]% Production [in all cities] <when not at war>", ""[+15]% Production when constructing [All] buildings [in all cities]"", "[+1 Production, +1 Gold, +1 Culture, +1 Science, +1 Happiness] per [3] population [in all cities]"],
+		"uniques":  ["[+80]% Science [in all cities] <when not at war>", "[+80]% Production [in all cities] <when not at war>", "[+15]% Production when constructing [All] buildings [in all cities]", "[+1 Production, +1 Gold, +1 Culture, +1 Science, +1 Happiness] per [3] population [in all cities]"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Alson","New Port","Azire's","Predivosk",
 			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Hizuchkah",
 			"Dawnion","Reviozi","Capivel","Ashville","Drezkiov","Wicking","Jacimi","Aquilonia","Frostholm","Victor Bay",
