@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Republic Federation",
-		"leaderName": "Sayouri Casdio",
+		"leaderName": "Feron",
 		"adjective": ["Izanbanton"],
 		"startBias": ["[Hill]"],
 		"preferredVictoryType": "Diplomatic",
@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Great Rebuild Of Progression",
-		"uniques":  ["[+2 Production] from every specialist [in all cities]", "[+20]% Production [in all cities] <when not at war>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] per [3] population [in all cities]", "Starts with [Republic] adopted"],
+		"uniques":  ["[+50]% Science [in all cities] <when not at war>", "[+50]% Production [in all cities] <when not at war>", "[+1 Production, +1 Gold, +1 Culture, +1 Science] per [3] population [in all cities]", "Starts with [Republic] adopted"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Alson","New Port","Azire's","Predivosk",
 			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Hizuchkah",
 			"Dawnion","Reviozi","Capivel","Ashville","Drezkiov","Wicking","Jacimi","Aquilonia","Frostholm","Victor Bay",
