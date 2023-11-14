@@ -2,13 +2,12 @@
 	{
 		"name": "Defence Coalition",
 		"unitType": "Gunpowder",
-		"uniqueTo": "",
+		"uniqueTo": "Republic Federation",
 		"replaces": "Infantry",
 		"movement": 2,
-		"strength": 60,
-		"cost": 215,
+		"strength": 70,
+		"cost": 200,
 		"requiredTech": "Plastics",
 		"promotions": ["Medic II","Mobility"],
-		"attackSound": "phasers"
 	}
 ]
