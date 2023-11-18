@@ -9,5 +9,20 @@
 		"cost": 200,
 		"requiredTech": "Plastics",
 		"promotions": ["Medic II","Mobility"],
+	},
+	{
+		"name": "Mobile Missile Launcher",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 100,
+		"rangedStrength": 150,
+		"range": 5,
+		"cost": 450,
+		"requiredTech": "Rocketry",
+		"requiredResource": "Aluminum",
+		"uniques": ["[+500]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"[-1] Sight", "Can carry [1] [Missile] units", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "artillery"
 	}
 ]
