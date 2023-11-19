@@ -2,7 +2,7 @@
 	{
 		"name": "Defence Coalition",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Republic Federation",
+		"uniqueTo": "",
 		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 70,
@@ -14,14 +14,13 @@
 		"name": "Mobile Missile Launcher",
 		"unitType": "Siege",
 		"movement": 2,
-		"strength": 100,
+		"strength": 75,
 		"rangedStrength": 150,
-		"range": 5,
+		"range": 4,
 		"cost": 450,
 		"requiredTech": "Rocketry",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+500]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
-			"[-1] Sight", "Can carry [1] [Missile] units", "Never appears as a Barbarian unit"],
+		"uniques": ["[+500]% Strength <vs cities> <when attacking>","No defensive terrain bonus", "Can carry [1] [Missile] units", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
 	}
