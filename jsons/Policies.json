@@ -1,5 +1,6 @@
 [
  {
+  [
         "name": "Militarization",
         "era": "Industrial era",
         "priorities": {
@@ -60,7 +61,8 @@
                     "[+38]% Production when constructing [Military] units [in all cities]",
                     "All [Military] units gain [1] Experience <per [99999] turns>" ],
               }
-         }
+         ]
+       }
 ]
             
          
