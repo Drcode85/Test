@@ -37,7 +37,7 @@
             {
                 "name": "Specialized Training",
                 "uniques": [
-                    "New [Military] units start with [",
+                    "New [Melee] units start with [Shock I] with [Military Academy] [in all cities]",
                     "[+10]% Strength <for [Military] units>"
                 ],
                 // There are also some uniques regarding espoinage, which as of this writing is not yet implemented
