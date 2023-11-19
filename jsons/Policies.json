@@ -1,4 +1,5 @@
-    {
+[
+ {
         "name": "Militarization",
         "era": "Industrial era",
         "priorities": {
@@ -9,7 +10,7 @@
             "Scientific": 40
         },
         "uniques": [
-            "New [Military] units start with [15] Experience [in this city]", ],
+            "New [Military] units start with [15] Experience [in capital]", ],
         "policies": [
             {
                 "name": "Rearmament",
@@ -19,14 +20,15 @@
             },
             {
                 "name": "Tactical Training",
-                "uniques": ["[+20]% Strength <for [Military] units>", ""],
+                "uniques": ["[+20]% Strength <for [Military] units>", "New [Military] units start with [20] Experience [in all cities]"],
                 "row": 1,
                 "column": 4
             },
             {
                 "name": "Advance Logistics",
-                "uniques": ["[-33]% Maintenance cost <for [Military] units> [Foreign Land] ",
-                    "[+2] Movement <for [Military] units>"
+                "uniques": ["[-33]% Maintenance cost <for [Military] units> <in [Foreign Land] tiles>",
+                    "[-33]% Maintenance cost <for [Military] units> <in [Friendly Land] tiles>",
+                    "[-24]% Maintenance cost <for [Military] units> <in [Enemy Land] tiles>"
                 ],
                 "requires": ["Rearmament"],
                 "row": 2,
