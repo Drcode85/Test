@@ -12,8 +12,8 @@
             "New [Military] units start with [15] Experience [in this city]", ],
         "policies": [
             {
-                "name": "Populism",
-                "uniques": ["[+25]% Strength <for [Wounded] units>"],
+                "name": "Rearmament",
+                "uniques": ["[+10]% Strength <for [Military] units>", "[-37]% Gold cost of upgrading <for [Military] units>"],
                 "row": 1,
                 "column": 2
             },
@@ -24,12 +24,12 @@
                 "column": 4
             },
             {
-                "name": "Fascism",
+                "name": "Proper",
                 "uniques": [
                     "Quantity of strategic resources produced by the empire +[100]%",
                     "[+2] Movement <for [Great General] units>"
                 ],
-                "requires": ["Populism", "Militarism"],
+                "requires": ["Rearmament"],
                 "row": 2,
                 "column": 2
             },
