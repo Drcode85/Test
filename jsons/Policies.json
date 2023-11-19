@@ -13,7 +13,7 @@
             "New [Military] units start with [15] Experience [in capital]", ],
         "policies": [
             {
-                "name": "Rearmament",
+                "name": "Weaponized",
                 "uniques": ["[+10]% Strength <for [Military] units>", "[-37]% Gold cost of upgrading <for [Military] units>"],
                 "row": 1,
                 "column": 2
@@ -25,23 +25,23 @@
                 "column": 4
             },
             {
-                "name": "Advance Logistics",
+                "name": "Advance Logistics System",
                 "uniques": ["[-33]% Maintenance cost <for [Military] units> <in [Foreign Land] tiles>",
                     "[-33]% Maintenance cost <for [Military] units> <in [Friendly Land] tiles>",
                     "[-24]% Maintenance cost <for [Military] units> <in [Enemy Land] tiles>"
                 ],
-                "requires": ["Rearmament"],
+                "requires": ["Weaponized"],
                 "row": 2,
                 "column": 2
             },
             {
-                "name": "Police State",
+                "name": "Specialized Training",
                 "uniques": [
-                    "[+3 Happiness] from every [Courthouse]",
-                    "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
+                    "New [Military] units start with [",
+                    "[+10]% Strength <for [Military] units>"
                 ],
                 // There are also some uniques regarding espoinage, which as of this writing is not yet implemented
-                "requires": ["Militarism"],
+                "requires": ["Tactical Training"],
                 "row": 2,
                 "column": 4
             },
