@@ -58,7 +58,7 @@
                 "name": "Militarization Complete",
                 "uniques": [
                     "[+38]% Production when constructing [Military] units [in all cities]",
-                    "All [Military] units gain [1] Experience <per [99999] turns>"
-                ]
-            }
-        ]
+                    "All [Military] units gain [1] Experience <per [99999] turns> ]
+              } 
+      }
+   ]
