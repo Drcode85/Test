@@ -18,16 +18,15 @@
                 "column": 2
             },
             {
-                "name": "Militarism",
-                "uniques": ["[Gold] cost of purchasing [All] units [-33]%"],
+                "name": "Tactical Training",
+                "uniques": ["[+20]% Strength <for [Military] units>", ""],
                 "row": 1,
                 "column": 4
             },
             {
-                "name": "Proper",
-                "uniques": [
-                    "Quantity of strategic resources produced by the empire +[100]%",
-                    "[+2] Movement <for [Great General] units>"
+                "name": "Advance Logistics",
+                "uniques": ["All adjacent units heal [+5] HP when healing",
+                    "[+2] Movement <for [Military] units>"
                 ],
                 "requires": ["Rearmament"],
                 "row": 2,
