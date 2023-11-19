@@ -14,7 +14,7 @@
         "policies": [
             {
                 "name": "Weaponized",
-                "uniques": ["[+10]% Strength <for [Military] units>", "[-37]% Gold cost of upgrading <for [Military] units>"],
+                "uniques": ["[+30]% Strength <for [Military] units> <in [Fort] improvement>", "[-37]% Gold cost of upgrading <for [Military] units>"],
                 "row": 1,
                 "column": 2
             },
@@ -46,20 +46,19 @@
                 "column": 4
             },
             {
-                "name": "Total War",
+                "name": "Stragetics Mastery",
                 "uniques": [
-                    "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                    "[+30]% Strength <for [Military] units>", "[+24]% Strength <vs [Military] units> <when defending>"
                 ],
-                "requires": ["Police State", "Fascism"],
+                "requires": ["Advance Logistics System", "Specialized Training"],
                 "row": 3,
                 "column": 3
             },
             {
-                "name": "Autocracy Complete",
+                "name": "Militarization Complete",
                 "uniques": [
-                    "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+                    "[+38]% Production when constructing [Military] units [in all cities]",
+                    "All [Military] units gain [1] Experience <per [99999] turns>"
                 ]
             }
         ]
