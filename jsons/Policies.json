@@ -25,7 +25,7 @@
             },
             {
                 "name": "Advance Logistics",
-                "uniques": ["[-33]% Maintenance cost <for [Military] units> < ",
+                "uniques": ["[-33]% Maintenance cost <for [Military] units> [Foreign Land] ",
                     "[+2] Movement <for [Military] units>"
                 ],
                 "requires": ["Rearmament"],
