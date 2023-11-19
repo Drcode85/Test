@@ -1,5 +1,5 @@
     {
-        "name": "Autocracy",
+        "name": "Militarization",
         "era": "Industrial era",
         "priorities": {
             "Neutral": 50,
@@ -25,7 +25,7 @@
             },
             {
                 "name": "Advance Logistics",
-                "uniques": ["All adjacent units heal [+5] HP when healing",
+                "uniques": ["[-33]% Maintenance cost <for [Military] units> < ",
                     "[+2] Movement <for [Military] units>"
                 ],
                 "requires": ["Rearmament"],
