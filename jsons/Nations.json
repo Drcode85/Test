@@ -27,10 +27,10 @@
 		"afterPeace": "Thank god that end, my manpower is reducing.",
 		"tradeRequest": "We have a trade offer for you and our benefit.",
 
-		"outerColor": [200,0,50],
+		"outerColor": [300,0,100],
 		"innerColor": [255,200,200],
 		"uniqueName": "The Great Progression",
-		"uniques":  ["[+80]% Science [in all cities] <when not at war>", "[+80]% Production [in all cities] <when not at war>", "[+15]% Production when constructing [All] buildings [in all cities]", "[+1 Production, +1 Gold, +1 Culture, +1 Science, +1 Happiness] per [3] population [in all cities]"],
+		"uniques":  ["[-33]% Unhappiness [in all cities] ", "[+1 Production, +1 Culture] [in all cities] <when not at war>", "[+7]% Production when constructing [All] buildings [in all cities]", "[+1 Production, +1 Gold, +1 Culture, +1 Science] per [3] population [in all cities]"],
 		"cities": ["Muchkit City","Y'Puam","Matidla Port","Derio","Mechizit","Alson","New Port","Azire's","Predivosk",
 			"Viewtay","Sizonium","Calim City","Little's","Cedarbrook","Beringovsk","Providensk Bay","Zimozvik","Dirosmink","Hizuchkah",
 			"Dawnion","Reviozi","Capivel","Ashville","Drezkiov","Wicking","Jacimi","Aquilonia","Frostholm","Victor Bay",
